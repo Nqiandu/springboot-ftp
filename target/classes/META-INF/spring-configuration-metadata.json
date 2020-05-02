@@ -1,0 +1,42 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp",
+      "type": "com.xxx.ftp.config.FtpPropertiesConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp.base-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp.host",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp.http-path",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp.port",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.xxx.ftp.config.FtpPropertiesConfig",
+      "name": "spring.ftp.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
